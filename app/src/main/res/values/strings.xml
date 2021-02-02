@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP03_Michel_Bermahnn</string>
+    <string name="bouton_appel">APPEL</string>
+    <string name="bouton_google">GOOGLE</string>
+    <string name="bouton_tp01">TP01</string>
+    <string name="bouton_gmail">GMAIL</string>
+</resources>
